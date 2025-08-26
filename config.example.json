@@ -1,0 +1,10 @@
+{
+  "user": "your_user",
+  "password": "your_password",
+  "dsn": "localhost:1521/orclpdb1",
+  "pool": {
+    "min": 1,
+    "max": 4,
+    "increment": 1
+  }
+}
